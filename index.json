@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "pyjnius",
+  "versions": [
+    {
+      "commit": "24a328500175f7183ffebe700dc73da532d27f2c",
+      "tag": "",
+      "parsed_at": "2026-11-07T11:52:48.460590+00:00"
+    }
+  ]
+}
