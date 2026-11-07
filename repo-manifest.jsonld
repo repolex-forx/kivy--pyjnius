@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kivy/pyjnius/commit/24a328500175f7183ffebe700dc73da532d27f2c",
       "git:hexsha": "24a328500175f7183ffebe700dc73da532d27f2c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T11:52:48.348394+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kivy/pyjnius/commit/f9c63fd186fe78089f5610085274efe14ea39eb6",
